@@ -1,4 +1,4 @@
-const apiKey = '695257be491d9e32ff6add65237cf93330a55';
+const apiKey = 'pub_69525c5c19767a922b4c4a3eb449abb3bc424';
 const defaultImage = 'https://thumbs.dreamstime.com/b/news-newspapers-folded-stacked-word-wooden-block-puzzle-dice-concept-newspaper-media-press-release-42301371.jpg'; // URL of the default image
 
 document.addEventListener('DOMContentLoaded', () => {
