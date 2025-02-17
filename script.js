@@ -1,5 +1,5 @@
 const apiKey = 'pub_69525c5c19767a922b4c4a3eb449abb3bc424';
-const defaultImage = 'news.webp'; // URL of the default image
+const defaultImage = 'new.jpg'; // URL of the default image
 
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('country-select').addEventListener('change', fetchNews);
